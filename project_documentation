@@ -1,0 +1,76 @@
+Afrocurl Website - Project Documentation
+
+Project Title
+Afrocurl by Kayla Kim Kay
+
+Project Description 
+Afrocurl is a multi-page e-commerce website built to promote and sell natural hair care products specifically designed for African curls and coils.
+The site was developed as part of a web technologies final assignment using HTML5,CSS3, JavaScript. The project also demonstrates responsive design
+and was deployed using GitHub Pages.
+
+
+Live URL:
+https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-Enhle21/
+
+
+Pages Overview
+1. Home Page(index.htlm)
+- Introduces the Afrocurl brand
+- Features are welcoming message and product philosophy.
+- Includes a promotional video
+- Fully responsive and styled in soft pink tones.
+
+2. Products Page(product.html)
+- Displays key Afrocurl products(shampoo, curl cream, oil and full combo)
+- Each product includes an image, description, and price.
+-Flexbox layout used for responsive product cards.
+
+3. Contact Page(contact.htlm)
+- Allows users to send queries through a form 
+-JavaScript is used for client-side validation (e.g checks email and requried fields)
+
+
+Technologies Used
+- HTML5: For semantic page structure
+- CSS3: for styling, layout, mobile responsiveness, and color theming
+- JavaScript: for validating contact form input
+- GitHub Pages: For deployment and hosting
+
+
+Responsiveness
+- Mobile-first approach using media queries.
+- Flexible gri layout that adapts to small screens 
+Navigation and buttons scale effectively on different devices.
+
+
+Design Choices
+- Color Scheme: Various shades of pink to match the feminine and empowering brand.
+- Typography: Clear and simple fonts for readability
+- Button Design: Speech-bubble styled nav buttons with bold text to increase user engagement
+
+
+Directory Structure
+-index.html
+-products.html
+-contact.html
+-style.css
+-script.js
+-images - claryifying_shapoo.jpg
+        - curl_activator_cream.jpg
+        - hair_growth_oil.jpg
+        - full_afrocurl_combo.jpg
+        -video - afrocurl_intro.mp4
+
+
+Features
+- Custom navigation bar styled with speech bubbles
+- Vudeo embedding for branding impact
+- Styled buttons, inputs, and hover effects
+- Clean product layout with prcing 
+-interactive form validation
+
+
+Author
+Palesa Mbali Tshabangu (Enhle)
+A passionate web developer promoting African brands online 
+              
